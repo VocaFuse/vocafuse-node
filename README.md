@@ -3,7 +3,7 @@
 A Node.js SDK for communicating with the VocaFuse API and building voice-enabled applications.
 
 [![npm version](https://badge.fury.io/js/vocafuse-node.svg)](https://www.npmjs.com/package/vocafuse-node)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/vocafuse/vocafuse-node/blob/main/LICENSE)
 
 ## Features
 
@@ -297,13 +297,6 @@ import type {
 } from 'vocafuse-node';
 ```
 
-## Environment Detection
-
-The SDK automatically detects the environment based on your API key prefix:
-
-- `sk_live_*` → Production API (`https://api.vocafuse.com`)
-- `sk_test_*` → Test API (`https://test-api.vocafuse.com`)
-
 ## Retry Configuration
 
 The SDK automatically retries failed requests with exponential backoff:
@@ -327,7 +320,7 @@ const client = new Client({
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License - see [LICENSE](https://github.com/vocafuse/vocafuse-node/blob/main/LICENSE) for details.
 
 ## Support
 
