@@ -183,7 +183,6 @@ class VoicenotesResourceImpl extends BaseResource {
       page += 1;
     }
   }
-
 }
 
 /**

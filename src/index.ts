@@ -18,11 +18,7 @@ export {
   WebhookInstance,
   WebhooksResource
 } from './resources/webhooks.js';
-export {
-  CallableAPIKeysResource,
-  APIKeyInstance,
-  APIKeysResource
-} from './resources/api-keys.js';
+export { CallableAPIKeysResource, APIKeyInstance, APIKeysResource } from './resources/api-keys.js';
 export { AccountResource } from './resources/account.js';
 
 // Errors
