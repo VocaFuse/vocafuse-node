@@ -3,7 +3,7 @@
 A Node.js SDK for communicating with the VocaFuse API and building voice-enabled applications.
 
 [![npm version](https://badge.fury.io/js/vocafuse-node.svg)](https://www.npmjs.com/package/vocafuse-node)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/vocafuse/vocafuse-node/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
 
@@ -318,9 +318,6 @@ const client = new Client({
 - Node.js 16+
 - TypeScript 4.7+ (for TypeScript users)
 
-## License
-
-MIT License - see [LICENSE](https://github.com/vocafuse/vocafuse-node/blob/main/LICENSE) for details.
 
 ## Support
 
