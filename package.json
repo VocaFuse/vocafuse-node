@@ -50,10 +50,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vocafuse/vocafuse-node.git"
+    "url": "git+https://github.com/VocaFuse/vocafuse-node.git"
   },
   "bugs": {
-    "url": "https://github.com/vocafuse/vocafuse-node/issues"
+    "url": "https://github.com/VocaFuse/vocafuse-node/issues"
   },
   "homepage": "https://vocafuse.com",
   "dependencies": {
